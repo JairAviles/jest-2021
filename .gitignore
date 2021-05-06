@@ -1,0 +1,8 @@
+/node_modules
+/coverage
+
+# misc
+.DS_Store
+
+.vscode
+.idea
